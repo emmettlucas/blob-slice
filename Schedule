@@ -1,1 +1,20 @@
 3/1 to 3/15:
+Set up project using LibGDX and Android Studio. Get a player on the screen.
+Bonus: Player is able to move
+
+3/15 to 3/29:
+Nail down player movement for desktop. (Player is able to follow in direction of mouse pointer)
+Put at least one enemy on the screen (moving). Bonus: Multiple enemies from blob class on screen
+
+3/29 to 4/12:
+Collision detection for enemy - player stops for a few seconds. Player now holds a big knife which can be used to slice enemy
+Bonus: Animation for knife on click.
+
+4/12 to 4/26:
+
+
+4/26 to 5/10:
+
+5/10 to 5/24:
+
+5/24 to 6/7:
